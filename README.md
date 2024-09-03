@@ -2,7 +2,7 @@
 An image classifier using Convolutional Neural Network (CNN) to predict German traffic signs.
 
 ![alt text](assets/banner.png)
-*source*: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?select=Train.csv
+[_source_](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign?select=Train.csv)
 
 # Overview dataset
 German Traffic Sign Recognition Benchmark (GTSRB) is a large multi-category classification benchmark. The first was used in a competition at IJCNN 2011. The images are classified into 43 classes, consisting of 26640 training labeled images and 12630 testing set.
